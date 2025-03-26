@@ -9,6 +9,7 @@
 </p>
 <hr>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/luz-cymbaluk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/luz.cymbaluk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
