@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Holi , soy Luz Cymba </b><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="35"></h1>
+<h1 align="center"><b>Holi , soy Luz Cymba </b><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="45"></h1>
 
 
 </p>
