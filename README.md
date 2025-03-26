@@ -16,5 +16,8 @@
 <a href="https://twitter.com/Mrakhilg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
 <a href="https://instagram.com/luz.cymba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
  <a href = "mailto: luzcymba14@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/@luzcymb)">
+  <img align="left" alt="Brijesh Dhanani" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 </p>
 </p>
