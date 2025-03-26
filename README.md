@@ -8,7 +8,6 @@
 <p align="center">
 </p>
 <hr>
-
 <span align="center">
   <span>
     <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
