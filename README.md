@@ -30,6 +30,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
 <img align="center" src="https://niixer.com/wp-content/uploads/2024/04/cropped-timthumsssb1.web" alt="Psint" height="30" width="40" />
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" height="40" width="40"/>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 
 <p align="right"> Aplicaciones y herramientas
 
