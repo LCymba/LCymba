@@ -15,8 +15,8 @@
 
 
 <h3 align="center"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="60" />Sobre mi</h3>
-  -💜 Me llamo Luz, pero me pueden llamar a comer
-  - 🔭 Me apasiona la tecnología y disfruto explorando nuevas herramientas.
+  <li> 💜 Me llamo Luz, pero me pueden llamar a comer
+  <li> 🔭 Me apasiona la tecnología y disfruto explorando nuevas herramientas.
   <li> Me encanta programar, crear cosas, resolver problemas y asumir retos.
   <li>🌱 Estudiante de Tecnicatura Universitaria en Desarrollo Web en la Facultad de Ciencias de la Administración - UNER.
   <li>🌱 Administradora de empresas.
