@@ -4,7 +4,7 @@
 
 </p>
 <hr>
-<h3 align="center"> Desarrolladora web | Aca agregar algun lenguaje | Prueba piloto ah </h3>
+<h3 align="center"> Desarrolladora web | Python, Java & más | Prueba piloto ah </h3>
 <p align="center">
 </p>
 
@@ -17,8 +17,9 @@
 
 <h3 align="center">Sobre mi</h3>
   <ul>
-    <li>🔭 Me encanta programar, crear cosas, resolver problemas y asumir retos. </strong></li>
-    <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
+    <li>🔭 Me encanta programar, crear cosas, resolver problemas y asumir retos.
+    <li>🌱 Estudiante de Tecnicatura Universitaria en Desarrollo Web en la Facultad de Ciencias de la Administración - UNER.
+            Cada día es una oportunidad de aprendizaje.
     <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li> 
     I'm trying to learn HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby and Java.
 
