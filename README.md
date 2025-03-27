@@ -18,10 +18,10 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />Sobre mi</h3>
   <li>💜 Me llamo Luz, pero me pueden llamar a comer
   <li>🔭 Me apasiona la tecnología y disfruto explorando nuevas herramientas.
-  </li> Me encanta programar, crear cosas, resolver problemas y asumir retos.
-  </li>🌱 Estudiante de Tecnicatura Universitaria en Desarrollo Web en la Facultad de Ciencias de la Administración - UNER.
-  </li> 👩🏼‍🎓 Administradora de empresas.
-  </li>📫 Aca algun chamuyo de tiempos libres, como que me gusta aprender sola ah 
+  <li> Me encanta programar, crear cosas, resolver problemas y asumir retos.
+  <li>🌱 Estudiante de Tecnicatura Universitaria en Desarrollo Web en la Facultad de Ciencias de la Administración - UNER.
+  <li> 👩🏼‍🎓 Administradora de empresas.
+  <li>📫 Aca algun chamuyo de tiempos libres, como que me gusta aprender sola ah 
 
 <p align="center">
 <a href="https://dev.to/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgkrishnan" height="30" width="30" /></
