@@ -15,7 +15,7 @@
     </h4>
 
 
-<h3 align="center"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />Sobre mi</h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="60" />Sobre mi</h3>
   <li>💜 Me llamo Luz, pero me pueden llamar a comer
   <li>🔭 Me apasiona la tecnología y disfruto explorando nuevas herramientas.
   <li> Me encanta programar, crear cosas, resolver problemas y asumir retos.
