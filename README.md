@@ -20,7 +20,7 @@
   <li>🔭 Me apasiona la tecnología y disfruto explorando nuevas herramientas.
   <li> Me encanta programar, crear cosas, resolver problemas y asumir retos.
   <li>🌱 Estudiante de Tecnicatura Universitaria en Desarrollo Web en la Facultad de Ciencias de la Administración - UNER.
-   🌱 Administradora de empresas.
+  <li>🌱 Administradora de empresas.
   <li>📫 Aca algun chamuyo de tiempos libres, como que me gusta aprender sola ah 
 
 <p align="center">
