@@ -14,6 +14,15 @@
       <span align="center">Alejandro Taboada Sanchez</span>
     </h4>
 
+    <!-- ABOUT YOU -->
+<hr>
+<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
+  <ul>
+    <li>🔭 I’m currently working on <strong>CloudPay</strong></li>
+    <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
+    <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li>
+  </ul>
+
 <p align="center">
 <a href="https://dev.to/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgkrishnan" height="30" width="30" /></
 <a href="https://www.linkedin.com/in/luz-cymbaluk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
