@@ -1,7 +1,6 @@
 
 <h1 align="center"><b>Holi mundo, soy Luz Cymba </b><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="45"></h1>
 
-
 </p>
 <hr>
 <h3 align="center"> Desarrolladora web | Python, Java & más | Prueba piloto ah </h3>
@@ -22,6 +21,14 @@
   <li>🌱 Estudiante de Tecnicatura Universitaria en Desarrollo Web en la Facultad de Ciencias de la Administración - UNER.
   <li>🌱 Administradora de empresas.
   <li>📫 Aca algun chamuyo de tiempos libres, como que me gusta aprender sola ah 
+
+## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
+
+
+
+
+  
 
 <p align="center">
 <a href="https://dev.to/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgkrishnan" height="30" width="30" /></
