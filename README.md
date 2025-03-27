@@ -4,7 +4,7 @@
 
 </p>
 <hr>
-<h3 align="center"> Desarrolladora web | Java, Python & más | Prueba piloto ah </h3>
+<h3 align="center"> Desarrolladora web | Aca agregar algun lenguaje | Prueba piloto ah </h3>
 <p align="center">
 </p>
 
