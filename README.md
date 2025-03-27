@@ -15,7 +15,7 @@
     </h4>
 
 
-<h3 align="center">Sobre mi</h3> </i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<h3 align="center">Sobre mi</h3> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
   <ul>
     <li>🔭 Me apasiona la tecnología y disfruto explorando nuevas herramientas.
     <li>Me encanta programar, crear cosas, resolver problemas y asumir retos.
