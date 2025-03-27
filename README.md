@@ -14,11 +14,10 @@
       <span align="center">Alejandro Taboada Sanchez</span>
     </h4>
 
-    <!-- ABOUT YOU -->
-<hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
+
+<h3 align="center">Sobre mi</h3>
   <ul>
-    <li>🔭 I’m currently working on <strong>CloudPay</strong></li>
+    <li>🔭 Me encanta programar, crear cosas, resolver problemas y asumir retos. </strong></li>
     <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
     <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li>
   </ul>
