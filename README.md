@@ -15,14 +15,14 @@
 
 
 <h3 align="center"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="60" />Sobre mi</h3>
-  <li> 💜 Me llamo Luz, pero me pueden llamar a comer
+  <li> 💜 Me llamo Luz, pero me pueden llamar a comer ah x2
   <li> 🔭 Me apasiona la tecnología y disfruto explorando nuevas herramientas.
   <li> Me encanta programar, crear cosas, resolver problemas y asumir retos.
   <li>🌱 Estudiante de Tecnicatura Universitaria en Desarrollo Web en la Facultad de Ciencias de la Administración - UNER.
   <li>🌱 Administradora de empresas.
   <li>📫 Aca algun chamuyo de tiempos libres, como que me gusta aprender sola ah 
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 
 
