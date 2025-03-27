@@ -19,20 +19,8 @@
   <ul>
     <li>🔭 Me encanta programar, crear cosas, resolver problemas y asumir retos.
     <li>🌱 Estudiante de Tecnicatura Universitaria en Desarrollo Web en la Facultad de Ciencias de la Administración - UNER.
-            Cada día es una oportunidad de aprendizaje.
-    <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li> 
-    I'm trying to learn HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby and Java.
-
-My hobby is reading books, listening music, playing games.
-
-Sometimes, I write small poems, stories too.
-
-I make ringtones, fake screenshots, memes, meme templates in my leisure time.
-
-I love to collect apps, games, movies, songs, fonts, iso etc.
-
-I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
-  </ul>
+    <li>🌱 Administradora de empresas.
+    <li>📫 Aca algun chamuyo de tiempos libres, como que me gusta aprender sola ah 
 
 <p align="center">
 <a href="https://dev.to/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgkrishnan" height="30" width="30" /></
