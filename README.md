@@ -14,7 +14,7 @@
     </h4>
 
 
-<h3 align="center"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="60" />Sobre mi</h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="60" />Sobre mi <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="30px" height="30px" alt="Moon"></a></h1>
   <li> 💜 Me llamo Luz, pero me pueden llamar a comer ah x2
   <li> 🔭 Me apasiona la música, la tecnología y disfruto explorando nuevas herramientas.
   <li> Me encanta programar, crear cosas, resolver problemas y asumir retos.
