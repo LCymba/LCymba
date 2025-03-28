@@ -34,8 +34,9 @@
 ### <p align="center"> Lenguajes, aplicaciones y herramientas
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40" alt="figma logo"  />
-<a margin="20" href="https://code.visualstudio.com/" target="_blank"><img margin="30px" height="40" src="https://github.com/brightkut/brightkut/blob/main/vsc.png" alt="vscode"></a>
+<a margin="20" href="https://code.visualstudio.com/" target="_blank"><img margin="30px" height="40" src="https://github.com/brightkut/brightkut/blob/main/vsc.png" alt="vscode">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+</a>
   
 <img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
