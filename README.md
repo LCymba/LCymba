@@ -61,6 +61,3 @@
 </p>
 </p>
 
-
-<a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
-
