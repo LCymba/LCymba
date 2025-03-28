@@ -24,8 +24,8 @@
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-### <p align="left"> Lenguajes
-<p align="left">
+### <p align="center"> Lenguajes
+<p align="center">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="40"/> 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" height="40" width="40"/>
@@ -37,8 +37,8 @@
 </a>
 
   
-### <p align="left"> Aplicaciones y herramientas
-<p align="left">
+### <p align="center"> Aplicaciones y herramientas
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40" alt="figma logo"  />
 <a margin="20" href="https://code.visualstudio.com/" target="_blank"><img margin="30px" height="40" src="https://github.com/brightkut/brightkut/blob/main/vsc.png" alt="vscode"></a>
 
