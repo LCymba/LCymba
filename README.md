@@ -28,13 +28,16 @@
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="40"/> 
-<img src="https://niixer.com/wp-content/uploads/2024/04/cropped-timthumsssb1.web" alt="Psint" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" height="40" width="40"/>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+<img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg">
+<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=gatsby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gatsby.svg'> 
+### <p align="left"> Aplicaciones y herramientas
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40" alt="figma logo"  />
+<a margin="20" href="https://code.visualstudio.com/" target="_blank"><img margin="30px" height="40" src="https://github.com/brightkut/brightkut/blob/main/vsc.png" alt="vscode"></a>
 
-<p align="left"> Aplicaciones y herramientas
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="40" alt="figma logo"  />
-  <img width="15" />
+
 
 
   
@@ -51,4 +54,7 @@
 </a>
 </p>
 </p>
+
+
+<a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 
